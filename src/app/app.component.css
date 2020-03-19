@@ -1,0 +1,29 @@
+h1,h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    margin-right: 2rem;
+}
+
+.center {
+    padding-left: 2rem;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.playCenter {
+    text-align: center;
+    width: 70%;
+    border-style: solid;
+}
+
+.row {
+    display: flex; 
+  }
+  .col {
+    flex: 1;
+    padding: 1em;
+  }
